@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: /logo.svg
+title: 杨宇航
+heroImage: /狐狸.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: yangyuhang
+tagline: 我具备出色的口头和书面表达能力，能够与各种背景和层次的人建立良好的关系。我注重细节，对工作充满热情，致力于提供高质量的成果。
 actions:
   - text: 使用指南
     icon: lightbulb
@@ -19,14 +19,17 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 易于安装
+  - header: underway
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
-
+      - title: <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"> Mdn—JavaScript </a>
+      - title: <a heef="https://vuepress.vuejs.org/guide/getting-started.html"> Vue—press </a>
+      - title: <a heef="https://cn.vuejs.org/guide/introduction.html"> Vue.js </a>
+      - title: <a heef="https://github.com/"> Github </a>
+      - title: <a heef="https://redis.io/"> Redis </a>
+      - title: <a heef="https://www.youdao.com/result?word=underway&lang=en"> Youdao </a>
   - header: 在 Markdown 中添加你想要的内容
     description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
     image: /assets/image/markdown.svg
@@ -36,50 +39,50 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 链接检查
+      - title: Vue—press
         icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        details: 1
+        link: https://vuepress.vuejs.org/guide/getting-started.html
 
-      - title: 提示容器支持
+      - title: Mdn—JavaScript
         icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/hint.html
+        details: 2
+        link: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
-      - title: GFM 警告
+      - title: Vue.js
         icon: bell
-        details: GFM 风格的警告容器
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/alert.html
+        details: 3
+        link: https://cn.vuejs.org/guide/introduction.html
 
-      - title: 选项卡
+      - title: Github
         icon: table-columns
-        details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+        details: 4
+        link: https://github.com/
 
-      - title: 代码组
+      - title: Redis
         icon: code
-        details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code-tabs.html
+        details: 5
+        link: https://redis.io/
 
-      - title: 自定义对齐支持
+      - title: Youdao
         icon: align-center
-        details: 让你在 Markdown 中对段落进行对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
+        details: 6
+        link: https://www.youdao.com/result?word=underway&lang=en
 
-      - title: 自定义属性支持
+      - title: Yuque
         icon: code
-        details: 让你为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
+        details: 7
+        link: https://www.yuque.com/dashboard
 
-      - title: 上下角标支持
+      - title: Run.js
         icon: superscript
-        details: 你的 Markdown 现在将支持上下角标
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
+        details: 8
+        link: https://runjs.co/
 
-      - title: 脚注
+      - title: 图标
         icon: quote-left
-        details: 你的 Markdown 现在将支持脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
+        details: 9
+        link: https://www.iconfont.cn/?spm=a313x.lotties_index.i3.2.113e3a81kIXztM
 
       - title: 标记支持
         icon: highlighter
